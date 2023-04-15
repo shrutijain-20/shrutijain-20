@@ -4,4 +4,5 @@ I'm a data analytics enthusiast with a strong passion for exploring large data s
 
 I'm constantly working on new projects that can be found in the repositories section. Do have a look, I'll appreciate your feedback :)
 
-You can reach out to me on [LinkedIn](https://www.linkedin.com/in/-shrutijain/) or via [mail](20.shrutijain@gmail.com)
+You can reach out to me on [LinkedIn](https://www.linkedin.com/in/-shrutijain/) 
+or via mail at 20.shrutijain@gmail.com
